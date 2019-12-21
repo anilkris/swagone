@@ -26,6 +26,7 @@ dependencies {
 test {
 	useJUnitPlatform()
 }
+// API Generate
 openApiGenerate {
     generatorName = "spring"
 //    inputSpec = "$rootDir/petstore-v3.0.yaml".toString()
