@@ -1,0 +1,2 @@
+# swagone
+Simple Swagger project
